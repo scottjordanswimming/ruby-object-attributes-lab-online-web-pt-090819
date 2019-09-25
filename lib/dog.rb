@@ -10,6 +10,10 @@ end
 def breed=(dogs_breed)
   @this_dogs_bread = dogs_bread 
 end
+
+def breed 
+  @this_dogs_bread
+
 end
 
 lassie = Dog.new
