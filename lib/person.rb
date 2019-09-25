@@ -11,6 +11,6 @@ def job=(persons_job)
   @job = persons_job 
 end
 
-def breed 
+def job 
   @bread
 end
