@@ -8,6 +8,7 @@ def name
 end
 
 def breed=(dogs_breed)
+  @this_dogs_bread = dogs_bread
 end
 
 lassie = Dog.new
