@@ -12,7 +12,7 @@ def breed=(dogs_breed)
 end
 
 def breed 
-  @this_dogs_bread
+  @bread
 end
 
 lassie = Dog.new
