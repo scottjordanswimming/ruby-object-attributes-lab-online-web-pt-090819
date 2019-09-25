@@ -12,5 +12,5 @@ def job=(persons_job)
 end
 
 def job 
-  @hob
+  @job
 end
