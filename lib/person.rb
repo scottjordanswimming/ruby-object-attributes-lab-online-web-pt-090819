@@ -12,7 +12,7 @@ def breed=(dogs_breed)
 end
 
 def breed 
-  @bread
+  @breed
 end
 
 def job=(persons_job)
